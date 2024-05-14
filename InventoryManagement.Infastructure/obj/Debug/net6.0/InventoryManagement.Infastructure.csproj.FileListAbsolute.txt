@@ -1,0 +1,17 @@
+F:\CleanArchicture\InventoryManagement.Infastructure\bin\Debug\net6.0\InventoryManagement.Infastructure.deps.json
+F:\CleanArchicture\InventoryManagement.Infastructure\bin\Debug\net6.0\InventoryManagement.Infastructure.runtimeconfig.json
+F:\CleanArchicture\InventoryManagement.Infastructure\bin\Debug\net6.0\InventoryManagement.Infastructure.dll
+F:\CleanArchicture\InventoryManagement.Infastructure\bin\Debug\net6.0\InventoryManagement.Infastructure.pdb
+F:\CleanArchicture\InventoryManagement.Infastructure\bin\Debug\net6.0\InventoryManagement.Domain.dll
+F:\CleanArchicture\InventoryManagement.Infastructure\bin\Debug\net6.0\InventoryManagement.Domain.pdb
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\InventoryManagement.Infastructure.csproj.AssemblyReference.cache
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\InventoryManagement.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\InventoryManagement.Infastructure.AssemblyInfoInputs.cache
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\InventoryManagement.Infastructure.AssemblyInfo.cs
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\InventoryManagement.Infastructure.csproj.CoreCompileInputs.cache
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\InventoryManagement.Infastructure.csproj.CopyComplete
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\InventoryManagement.Infastructure.dll
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\refint\InventoryManagement.Infastructure.dll
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\InventoryManagement.Infastructure.pdb
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\InventoryManagement.Infastructure.genruntimeconfig.cache
+F:\CleanArchicture\InventoryManagement.Infastructure\obj\Debug\net6.0\ref\InventoryManagement.Infastructure.dll

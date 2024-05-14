@@ -1,0 +1,11 @@
+F:\CleanArchicture\InventoryManagement.Domain\bin\Debug\net6.0\InventoryManagement.Domain.deps.json
+F:\CleanArchicture\InventoryManagement.Domain\bin\Debug\net6.0\InventoryManagement.Domain.dll
+F:\CleanArchicture\InventoryManagement.Domain\bin\Debug\net6.0\InventoryManagement.Domain.pdb
+F:\CleanArchicture\InventoryManagement.Domain\obj\Debug\net6.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\CleanArchicture\InventoryManagement.Domain\obj\Debug\net6.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+F:\CleanArchicture\InventoryManagement.Domain\obj\Debug\net6.0\InventoryManagement.Domain.AssemblyInfo.cs
+F:\CleanArchicture\InventoryManagement.Domain\obj\Debug\net6.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+F:\CleanArchicture\InventoryManagement.Domain\obj\Debug\net6.0\InventoryManagement.Domain.dll
+F:\CleanArchicture\InventoryManagement.Domain\obj\Debug\net6.0\refint\InventoryManagement.Domain.dll
+F:\CleanArchicture\InventoryManagement.Domain\obj\Debug\net6.0\InventoryManagement.Domain.pdb
+F:\CleanArchicture\InventoryManagement.Domain\obj\Debug\net6.0\ref\InventoryManagement.Domain.dll
